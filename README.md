@@ -94,7 +94,7 @@ You can adjust the following parameters in the `find_duplicates` function:
 
 ## 🤝 Contributions
 
-We welcome contributions from the community. If you have ideas to improve this script, feel free to:
+Welcome to contributions from the community. If you have ideas to improve this script, feel free to:
 
 1. Fork this repository.
 2. Make improvements or add features.
@@ -113,7 +113,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use a
 We hope this script proves helpful for your needs. Feel free to share suggestions or feedback!
 
 Happy Coding! 😊
-
----opencv-python
-imagehash
-Pillow
